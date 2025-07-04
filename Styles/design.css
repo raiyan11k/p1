@@ -38,3 +38,13 @@
     margin: 40px;
     padding: 30px;
 }
+
+.anc{
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+    padding: 50px;
+    margin: 20px;
+    border: slateblue solid 20px;
+
+}
