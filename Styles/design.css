@@ -1,0 +1,40 @@
+
+#head{
+    text-align: center;
+    color: violet;
+    border-style: double;
+    border-radius: 10px;
+    border-width: 10px;
+    margin: 40px;
+    padding: 90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bolder;
+}
+
+.box{
+    font-size: larger;
+    color: white;
+    
+}
+
+#hnext{
+    font-size: x-large; color:violet; 
+    text-align: center;
+    font-size: 50px;
+    border-style: double;
+    border-radius:10px;
+    border-width: 10px;
+    margin: 40px;
+    padding: 10px;
+}
+
+.formbr{
+    text-align: center;
+    color:whitesmoke;
+    font-size: 25px;
+    border: double 10px violet;
+    border-radius:10px;
+    border-width: 10px;
+    margin: 40px;
+    padding: 30px;
+}
